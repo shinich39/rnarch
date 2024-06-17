@@ -6,8 +6,10 @@ Supported archive types: .zip, .epub, .cbz, .rar, .cbr, .7z, .cb7, .pdf
 
 ## Installation
 
+[rnarch-0.1.0.tgz](https://github.com/shinich39/rnarch/releases/download/0.1.0/rnarch-0.1.0.tgz)
+
 ```sh
-npm install rnarch
+npm install rnarch-0.1.0.tgz
 ```
 
 ## Usage
